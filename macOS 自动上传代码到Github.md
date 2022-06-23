@@ -22,7 +22,7 @@
     
 5. 登录[Github](https://github.com/settings/keys)复制公钥
     
-    ![Untitled](Untitled.png)
+   
     
 6. 关联本地仓库和Github仓库
     
@@ -107,12 +107,12 @@
 
 参考资料：
 
-[本地文件自动同步到GitHub](https://cloud.tencent.com/developer/article/1575314)
+[本地文件自动同步到GitHub-腾讯云](https://cloud.tencent.com/developer/article/1575314)
 
 [https://cloud.tencent.com/developer/article/1575314](https://cloud.tencent.com/developer/article/1575314)
 
-[本地文件自动同步到GitHub](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486515&idx=1&sn=584fa08c4569c3fb5cad0ad9861af0a7&token=1963867963&lang=zh_CN#rd)
+[本地文件自动同步到GitHub-微信](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486515&idx=1&sn=584fa08c4569c3fb5cad0ad9861af0a7&token=1963867963&lang=zh_CN#rd)
 
-[](https://onns.xyz/blog/2020/06/10/fix-crontab-operation-not-permitted-on-mac/)
+[修复MacOS上crontab的Operation not permitted问题](https://onns.xyz/blog/2020/06/10/fix-crontab-operation-not-permitted-on-mac/)
 
 [Crontab Operation not permitted](https://apple.stackexchange.com/questions/378553/crontab-operation-not-permitted)
