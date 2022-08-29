@@ -75,6 +75,7 @@
     
     ```bash
     * * * * * /Users/zhangweishi/autoGit.sh > ~/log.txt 2>&1 &
+    */10 * * * * /Users/zhangweishi/autoGit.sh > ~/test.txt 2>&1 &
     ```
     
 13. 查看定时运行脚本
