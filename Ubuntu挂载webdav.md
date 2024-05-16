@@ -77,6 +77,7 @@
         在配置完成后，可以手动测试挂载是否成功：
         
         ```bash
+        sudo systemctl daemon-reload
         sudo mount /mnt/webdav
         ```
         
