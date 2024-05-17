@@ -46,7 +46,9 @@
     ```
     # https://example.com/webdav /mnt/webdav davfs user,rw,uid=your_username,gid=your_group 0 0
     
-    https://example.com/webdav /mnt/webdav davfs _netdev,auto,user 0 0
+    # https://example.com/webdav /mnt/webdav davfs _netdev,auto,user 0 0
+
+    http://192.168.5.131:5005 /home/code/DSM davfs _netdev,auto,user,file_mode=777,dir_mode=777 0 0
     ```
     
     请将**`your_username`**和**`your_group`**替换为实际的用户名和用户组。
